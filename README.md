@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/ScholarTN/ScholarTN/blob/d1bad843cafc211289ab92b406ecdc328a86cdef/banner.png" alt="Thubalami Nkomazana Banner" width="100%" />
+</p>
 
 
 <h1 align="center">
