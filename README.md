@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/OH0p9Yb.png" width="100%" />
+  <img src="C:\Users\thuba\Downloads\banner.png" width="100%" />
 </p>
 
 <h1 align="center">
