@@ -1,121 +1,129 @@
+<!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ohidurbappy/profile-header/master/banner.png" alt="Banner"/>
+  <img src="https://i.imgur.com/OH0p9Yb.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm THUBALAMI NKOMAZANA (ScholarTN)</h1>
-<h3 align="center">AI & Data Engineering • Machine Learning • Medical AI Research Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Thubalami+Nkomazana+%F0%9F%91%8B;AI+Engineer+%7C+ML+Developer+%7C+Data+Engineer;Building+Smart+AI+Systems+That+Solve+Real+Problems" />
+</h1>
 
 ---
 
-## 👨‍💻 About Me  
-- 👀 Passionate about **leveraging Artificial Intelligence** to revolutionize real-world systems  
-- 🎓 Currently pursuing **B.Tech CSE (AI & Data Engineering)**  
-- 💡 Interested in **Medical AI**, Smart Systems, Data Engineering & AI-driven automation  
-- 💞️ Open to **collaborations** in AI research, especially in healthcare  
-- 📫 Reach me: **thubalaminkomazana15@gmail.com**
+# ⚡ About Me
+> _"Turning data into intelligence — and intelligence into impact."_
+
+- 🔍 AI researcher focused on **medical AI**, **smart systems**, and **real-time analytics**  
+- 🎓 B.Tech CSE (AI & Data Engineering)  
+- 🚀 Currently working on **AI-powered Energy Monitoring Dashboard**  
+- 💡 Passionate about **Deep Learning, NLP, IoT AI, and Data Engineering pipelines**  
+- 🤝 Open to **research collaborations** in healthcare + AI  
+- 📩 Reach me: **thubalaminkomazana15@gmail.com**
 
 ---
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thubalami-nkomazana15)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thubalaminkomazana15@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Scholar_101/)  
-
----
-
-## 🛠 Tech Stack
-
-### **Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## ⭐ Featured Projects
-
-### 🔥 **⚡ Smart Energy Monitoring Dashboard (IoT + ML)**  
-Real-time energy monitoring dashboard with:  
-- Live sensor data  
-- Power factor analysis  
-- Predictive insights  
-- MongoDB + Dash + Plotly  
-- AI-driven analytics  
-
-📌 *Deployment coming soon*
-
----
-
-### 🩺 **Cancer Image Detection using PyTorch**  
-- Deep learning model using CNNs  
-- Trained on medical imaging datasets  
-- Includes heatmaps & accuracy metrics  
-- Research-focused ML project  
-
-📌 *Add repo link here*
-
----
-
-### 📘 **Java DSA – Placement Prep Repository**  
-- Clean implementations of sorting, trees, graphs, BFS/DFS  
-- 100+ DSA practice problems  
-- Ideal for revision & interviews  
-
-📌 *Add repo link here*
-
----
-
-## 🎓 Certifications  
-- **DP-900 Microsoft Azure Data Fundamentals**  
-- **AWS x SheKnowsAI – Generative AI**  
-- **HP Effective Leadership & HP LIFE Certificates**  
-- **IBM Hardware & OS Certification**  
-- **Microsoft Azure Data Fundamentals**  
-- **OCI Certified Generative AI Professional**  
-
----
-
-## 📊 GitHub Stats  
+# 🌐 Connect With Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ScholarTN&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScholarTN&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScholarTN&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/thubalami-nkomazana15"><img src="https://skillicons.dev/icons?i=linkedin" width="55" /></a>
+<a href="mailto:thubalaminkomazana15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55" /></a>
+<a href="https://leetcode.com/u/Scholar_101/"><img src="https://skillicons.dev/icons?i=leetcode" width="55" /></a>
 </p>
 
 ---
 
-## 🎯 Current Goals  
-- Build **500+ LeetCode solutions** in Java  
-- Publish **AI & ML projects** with clean documentation  
-- Contribute to **open-source AI**  
-- Develop **production-grade ML systems**  
+# 🧠 Tech Stack (Interactive)
 
----
-
-## ⚡ Random Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,js" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mongodb,mysql,docker,linux" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
 
-## 🙏 Thanks for visiting!  
-⭐ *Feel free to explore my work or reach out for collaboration!*
+# 🚀 Featured Projects (Expandable)
+
+<details>
+<summary><h3>⚡ Smart Energy Monitoring Dashboard</h3></summary>
+
+#### 🔹 Real-time IoT Dashboard  
+✔ Live sensor readings  
+✔ Power factor, voltage analytics  
+✔ Predictive ML forecasting  
+✔ MongoDB + Dash + Plotly  
+✔ Cloud-ready architecture  
+
+</details>
+
+<details>
+<summary><h3>🩺 Cancer Image Detection (PyTorch)</h3></summary>
+
+✔ CNN architecture  
+✔ Heatmaps for medical imaging  
+✔ Feature extraction visualization  
+✔ Research-based project  
+</details>
+
+<details>
+<summary><h3>📘 DSA in Java – 500+ Problems</h3></summary>
+
+✔ Sorting  
+✔ Trees & Graphs  
+✔ BFS/DFS  
+✔ Recursion  
+✔ Interview-level solutions  
+</details>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ScholarTN&show_icons=true&theme=radical" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ScholarTN&theme=radical" width="49%"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScholarTN&layout=compact&theme=radical" width="45%"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎓 Certifications
+✔ Azure Data Fundamentals (DP-900)  
+✔ AWS + SheKnowsAI GenAI Certificate  
+✔ IBM Hardware & OS  
+✔ Microsoft Data Fundamentals  
+✔ HP Effective Leadership  
+✔ OCI GenAI Professional  
+
+---
+
+# 🔥 Goals  
+- 🚀 Complete **500+ LeetCode Java problems**  
+- 📘 Publish **5 major AI Projects**  
+- 🧪 Contribute to **medical AI research**  
+- ☁ Become **cloud-ready AI engineer**  
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" width="80%"/>
+</p>
+
+---
+
+# 🧠 Fun AI Quote  
+<p align="center">
+  <i>"The future belongs to those who build it — one model at a time."</i>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, feel free to connect or collaborate!
+</p>
