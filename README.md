@@ -114,7 +114,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScholarTN&layout=compact&theme=radical" width="45%"/>
   <!-- LeetCode Stats Card -->
   <a href="https://leetcode.com/u/Scholar_101/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Scholar_101?theme=dark" width="45%"/>
+    <img src="https://leetcard.jacoblin.cool/Scholar_101?theme=dark" width="52%"/>
   </a>
   <br/><br/>
 
