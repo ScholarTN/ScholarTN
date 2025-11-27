@@ -12,32 +12,27 @@
 
 ---
 
-## ⚡ About Me  
-<div align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRldjJ3czE1bTF0aHdwdXVvZTM5d2RlbzFuYWUyemt2YzA5aXhmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="200" />
-</div>
+<table>
+<tr>
+<td>
+
+### ⚡ About Me  
+• AI Researcher — Medical AI  
+• B.Tech CSE (AI & Data Engineering)  
+• Building AI Energy Dashboard  
+• Passion: DL, NLP, IoT AI  
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRldjJ3czE1bTF0aHdwdXVvZTM5d2RlbzFuYWUyemt2YzA5aXhmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="300" />
 
 
 
-> **AI Researcher**  
-> _Medical AI • Smart IoT Systems • Real-Time Data_
- 
-
-> **Current Focus**  
-> Building an AI-powered **Energy Monitoring Dashboard**  
-> with predictive analytics + anomaly detection.
->  <div align="right">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
-</div>
-
-> **Tech Interests**  
-> Deep Learning · NLP · IoT AI · Data Engineering Pipelines
-
-> **Let’s Collaborate**  
-> Healthcare AI · Research · Intelligent Automation
-
-📬 **thubalaminkomazana15@gmail.com**
-
+</td>
+</tr>
+</table>
 
 ---
 
@@ -117,6 +112,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ScholarTN&theme=radical" width="49%"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScholarTN&layout=compact&theme=radical" width="45%"/>
+  <!-- LeetCode Stats Card -->
+  <a href="https://leetcode.com/u/Scholar_101/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Scholar_101?theme=dark" width="45%"/>
+  </a>
+  <br/><br/>
+
+</p>
 </p>
 
 ---
@@ -125,6 +127,7 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
