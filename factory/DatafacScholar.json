@@ -1,0 +1,9 @@
+{
+	"name": "DatafacScholar",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7913cc7d-8c75-4179-b60b-61ae2f6c7a1e",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
