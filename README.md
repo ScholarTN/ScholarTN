@@ -12,17 +12,36 @@
 
 ---
 
-# ⚡ About Me
-> _"Turning data into intelligence — and intelligence into impact."_
+## ⚡ About Me  
+<div align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRldjJ3czE1bTF0aHdwdXVvZTM5d2RlbzFuYWUyemt2YzA5aXhmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="200" />
+</div>
 
-- 🔍 AI researcher focused on **medical AI**, **smart systems**, and **real-time analytics**  
-- 🎓 B.Tech CSE (AI & Data Engineering)  
-- 🚀 Currently working on **AI-powered Energy Monitoring Dashboard**  
-- 💡 Passionate about **Deep Learning, NLP, IoT AI, and Data Engineering pipelines**  
-- 🤝 Open to **research collaborations** in healthcare + AI  
-- 📩 Reach me: **thubalaminkomazana15@gmail.com**
+
+
+> **AI Researcher**  
+> _Medical AI • Smart IoT Systems • Real-Time Data_
+ 
+
+> **Current Focus**  
+> Building an AI-powered **Energy Monitoring Dashboard**  
+> with predictive analytics + anomaly detection.
+>  <div align="right">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+</div>
+
+> **Tech Interests**  
+> Deep Learning · NLP · IoT AI · Data Engineering Pipelines
+
+> **Let’s Collaborate**  
+> Healthcare AI · Research · Intelligent Automation
+
+📬 **thubalaminkomazana15@gmail.com**
+
 
 ---
+
+
 
 
 ## 🌐 Socials  
@@ -56,7 +75,7 @@
 
 ---
 
-# 🚀 Featured Projects (Expandable)
+# 🚀 Featured Projects
 
 <details>
 <summary><h3>⚡ Smart Energy Monitoring Dashboard</h3></summary>
