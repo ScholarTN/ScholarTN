@@ -1,7 +1,4 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="C:\Users\thuba\Downloads\banner.png" width="100%" />
-</p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Thubalami+Nkomazana+%F0%9F%91%8B;AI+Engineer+%7C+ML+Developer+%7C+Data+Engineer;Building+Smart+AI+Systems+That+Solve+Real+Problems" />
