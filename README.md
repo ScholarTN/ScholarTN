@@ -25,8 +25,8 @@
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRldjJ3czE1bTF0aHdwdXVvZTM5d2RlbzFuYWUyemt2YzA5aXhmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="310">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRldjJ3czE1bTF0aHdwdXVvZTM5d2RlbzFuYWUyemt2YzA5aXhmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="270" />
 
 
 
