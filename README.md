@@ -1,40 +1,46 @@
-<p align="center">
-  <img src="https://github.com/ScholarTN/ScholarTN/blob/d1bad843cafc211289ab92b406ecdc328a86cdef/banner.png" alt="Thubalami Nkomazana Banner" width="100%" />
-</p>
 
 
-<h1 align="center">
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22D3EE&height=250&section=header&text=Thubalami%20Nkomazana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40desc=AI%20ENGINEER%20%7C%AI%20Researcher%20%7C%20ML%20Engineer%20%7C%20MLOps%20Enthusiast&descSize=30&descAlignY=70" />
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Hi+I'm+Thubalami+Nkomazana+%F0%9F%91%8B;AI+Engineer+%7C+ML+Developer+%7C+Data+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=AI+Engineer+%7C+ML+Developer+%7C+MLOps+Engineer"
   />
+  
+  <h1 align="center">
+  
 </h1>
 
-
----
-
-<table>
-<tr>
-<td>
-
-### ⚡ About Me  
-• AI Researcher — Medical AI  
-• B.Tech CSE (AI & Data Engineering)  
-• Building AI Energy Dashboard  
-• Passion: DL, NLP, IoT AI  
-
-</td>
-<td>
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRldjJ3czE1bTF0aHdwdXVvZTM5d2RlbzFuYWUyemt2YzA5aXhmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="100" />
+</div>
 
 
 
-</td>
-</tr>
-</table>
 
----
+<p align="center">
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+
+- 📌 Passionate about **AI, ML, and MLOps**  
+- 🔍 Love exploring how AI can Help solve real-world decisions  
+- 🧠 Currently focused on **automation, model workflows, and data pipelines**   
+- 🚀 Always improving my skills through hands-on projects & experiments  
+- 💬 Open to collaborating on **AI, ML, and MLOps-based projects**  
+
+  <div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+    alt="section divider animation"
+    width="70%"
+  />
+</div>
 
 
 
