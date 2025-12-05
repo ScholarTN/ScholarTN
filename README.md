@@ -6,7 +6,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22D3EE&height=250&section=header&text=Thubalami%20Nkomazana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40desc=AI%20ENGINEER%20%7C%AI%20Researcher%20%7C%20ML%20Engineer%20%7C%20MLOps%20Enthusiast&descSize=30&descAlignY=70" />
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=AI+Engineer+%7C+ML+Developer+%7C+MLOps+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=AI+Engineer+%7C+ML+Developer+%7C+MLOps+Enthusiast"
   />
   
   <h1 align="center">
