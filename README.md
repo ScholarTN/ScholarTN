@@ -113,21 +113,38 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ScholarTN&show_icons=true&theme=radical" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ScholarTN&theme=radical" width="49%"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScholarTN&layout=compact&theme=radical" width="45%"/>
-  <!-- LeetCode Stats Card -->
-  <a href="https://leetcode.com/u/Scholar_101/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Scholar_101?theme=dark" width="52%"/>
-  </a>
-  <br/><br/>
+<table>
+<tr>
+<td>
 
-</p>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ScholarTN&show_icons=true&theme=radical" width="100%"/>
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=ScholarTN&theme=radical" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScholarTN&layout=compact&theme=radical" width="100%"/>
+
+</td>
+<td>
+
+<img src="https://leetcard.jacoblin.cool/Scholar_101?theme=dark&border=0" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 # 🐍 Contribution Snake  
 <p align="center">
