@@ -336,6 +336,9 @@
 			},
 			"loop_input": {
 				"type": "array"
+			},
+			"from_date": {
+				"type": "string"
 			}
 		},
 		"variables": {
