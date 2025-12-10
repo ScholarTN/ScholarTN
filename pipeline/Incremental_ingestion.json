@@ -12,7 +12,20 @@
 						{
 							"name": "SQLtoDatalake",
 							"type": "Copy",
-							"dependsOn": [],
+							"dependsOn": [
+								{
+									"activity": "cdc",
+									"dependencyConditions": [
+										"Completed"
+									]
+								},
+								{
+									"activity": "Current_Timestamp",
+									"dependencyConditions": [
+										"Completed"
+									]
+								}
+							],
 							"policy": {
 								"timeout": "0.12:00:00",
 								"retry": 0,
@@ -133,7 +146,14 @@
 						{
 							"name": "ifnewrows",
 							"type": "IfCondition",
-							"dependsOn": [],
+							"dependsOn": [
+								{
+									"activity": "SQLtoDatalake",
+									"dependencyConditions": [
+										"Completed"
+									]
+								}
+							],
 							"userProperties": [],
 							"typeProperties": {
 								"expression": {
@@ -199,7 +219,10 @@
 											"scripts": [
 												{
 													"type": "Query",
-													"text": "@concat(\n    'SELECT max(', pipeline().parameters.cdc, ') AS max_cdc FROM ',\n    pipeline().parameters.schema, '.', pipeline().parameters.table\n)\n"
+													"text": {
+														"value": "@concat(\n    'SELECT max(', pipeline().parameters.cdc, ') AS max_cdc FROM ',\n    pipeline().parameters.schema, '.', pipeline().parameters.table\n)\n",
+														"type": "Expression"
+													}
 												}
 											],
 											"scriptBlockExecutionTimeout": "02:00:00"
@@ -230,7 +253,10 @@
 												"additionalColumns": [
 													{
 														"name": "cdc",
-														"value": "@activity('max_cdc').output.resultSets[0].rows[0].max_cdc"
+														"value": {
+															"value": "@activity('max_cdc').output.resultSets[0].rows[0].max_cdc",
+															"type": "Expression"
+														}
 													}
 												],
 												"storeSettings": {
