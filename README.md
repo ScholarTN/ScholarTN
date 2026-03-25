@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,30:0A2540,65:003554,100:00B4D8&height=300&section=header&text=Thubalami%20Nkomazana&fontSize=52&fontColor=E0F7FA&animation=fadeIn&fontAlignY=38&desc=SCHOLAR&descSize=26&descAlignY=62&descColor=64FFDA"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,30:0A2540,65:003554,100:00B4D8&height=300&section=header&text=Thubalami%20Nkomazana&fontSize=52&fontColor=E0F7FA&animation=fadeIn&fontAlignY&descSize=26&descAlignY=62&descColor=64FFDA"
   width="100%"
 />
 <img
@@ -41,13 +41,6 @@
 
 ### 🧬 About Me
 
-<img
-  src="https://media.giphy.com/media/9N2UvCx7wXLnG/giphy.gif"
-  width="60%"
-  style="max-width:480px;min-width:200px;"
-  alt="Brain Neuron Animation"
-/>
-
 </div>
 
 - 🧠 Fascinated by **AI + neuroscience & medical imaging**
@@ -57,6 +50,13 @@
 - 🤝 Open to collabs on **AI, ML & real-world problems**
 
 ---
+<img
+  src="https://media.giphy.com/media/9N2UvCx7wXLnG/giphy.gif"
+  width="40%"
+  style="max-width:50px;min-width:50px;"
+  alt="Brain Neuron Animation"
+/>
+<img src="https://media.giphy.com/media/KVVgWtScb37USleUB3/giphy.gif" width="350" alt="AI Neural Network Thinking" />
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                     SOCIALS                            -->
@@ -183,7 +183,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/KVVgWtScb37USleUB3/giphy.gif" width="150" alt="AI Neural Network Thinking" />
 
 <br/><br/>
 
