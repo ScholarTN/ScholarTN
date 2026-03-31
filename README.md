@@ -71,6 +71,8 @@
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thubalaminkomazana15@gmail.com)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0A0F2E)](https://leetcode.com/u/Scholar_101/)
+&nbsp;
+[![NeetCode](https://img.shields.io/badge/NeetCode-00B4D8?style=for-the-badge&logo=leetcode&logoColor=0A0F2E)](https://neetcode.io/profile/thubalaminkomazana15)
 
 </div>
 
@@ -183,15 +185,47 @@
 
 <div align="center">
 
-
 <br/><br/>
 
+<!-- Row 2: LeetCode (left) | NeetCode panel (right) -->
 <table width="100%">
 <tr>
 <td width="50%" align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ScholarTN&show_icons=true&theme=midnight-purple&border_color=00B4D8&title_color=64FFDA&icon_color=00E5FF&text_color=E0F7FA&bg_color=0D1117"
+  src="https://leetcard.jacoblin.cool/Scholar_101?theme=dark&border=0&ext=activity"
   width="100%"
+/>
+</td>
+<td width="50%" align="center">
+
+### 🟢 NeetCode — [thubalaminkomazana15](https://neetcode.io/profile/thubalaminkomazana15)
+
+[![Solved](https://img.shields.io/badge/Solved-93-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/profile/thubalaminkomazana15)
+&nbsp;
+[![Streak](https://img.shields.io/badge/🔥%20Current%20Streak-19%20Days-FF6B35?style=for-the-badge)](https://neetcode.io/profile/thubalaminkomazana15)
+&nbsp;
+[![2026](https://img.shields.io/badge/2026%20Submissions-67-64FFDA?style=for-the-badge)](https://neetcode.io/profile/thubalaminkomazana15)
+
+[![Easy](https://img.shields.io/badge/Easy-55%20%2F%20935-4CAF50?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-34%20%2F%202033-FFA116?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
+&nbsp;
+[![Hard](https://img.shields.io/badge/Hard-4%20%2F%20919-F44336?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
+
+</td>
+</tr>
+</table>
+
+
+<br/>
+
+
+<!-- Row 1: Top Languages (left) | Streak (right) -->
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img
+  src="https://raw.githubusercontent.com/ScholarTN/ScholarTN/main/top-langs.svg"
 />
 </td>
 <td width="50%" align="center">
@@ -203,24 +237,9 @@
 </tr>
 </table>
 
-<br/>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScholarTN&layout=compact&theme=midnight-purple&border_color=00B4D8&title_color=64FFDA&text_color=E0F7FA&bg_color=0D1117"
-  width="100%"
-/>
-</td>
-<td width="50%" align="center">
-<img
-  src="https://leetcard.jacoblin.cool/Scholar_101?theme=dark&border=0&ext=activity"
-  width="100%"
-/>
-</td>
-</tr>
-</table>
+
+
 
 </div>
 
