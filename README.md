@@ -200,17 +200,17 @@
 
 ### 🟢 NeetCode — [thubalaminkomazana15](https://neetcode.io/profile/thubalaminkomazana15)
 
-[![Solved](https://img.shields.io/badge/Solved-93-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/profile/thubalaminkomazana15)
+[![Solved](https://img.shields.io/badge/Solved-72-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/profile/thubalaminkomazana15)
 &nbsp;
-[![Streak](https://img.shields.io/badge/🔥%20Current%20Streak-19%20Days-FF6B35?style=for-the-badge)](https://neetcode.io/profile/thubalaminkomazana15)
+[![Streak](https://img.shields.io/badge/🔥%20Current%20Streak-62%20Days-FF6B35?style=for-the-badge)](https://neetcode.io/profile/thubalaminkomazana15)
 &nbsp;
-[![2026](https://img.shields.io/badge/2026%20Submissions-67-64FFDA?style=for-the-badge)](https://neetcode.io/profile/thubalaminkomazana15)
+[![2026](https://img.shields.io/badge/2026%20Submissions-155-64FFDA?style=for-the-badge)](https://neetcode.io/profile/thubalaminkomazana15)
 
-[![Easy](https://img.shields.io/badge/Easy-55%20%2F%20935-4CAF50?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
+[![Easy](https://img.shields.io/badge/Easy-26%20%2F%20935-4CAF50?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
 &nbsp;
-[![Medium](https://img.shields.io/badge/Medium-34%20%2F%202033-FFA116?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
+[![Medium](https://img.shields.io/badge/Medium-37%20%2F%202033-FFA116?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
 &nbsp;
-[![Hard](https://img.shields.io/badge/Hard-4%20%2F%20919-F44336?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
+[![Hard](https://img.shields.io/badge/Hard-9%20%2F%20919-F44336?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
 
 </td>
 </tr>
