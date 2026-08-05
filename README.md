@@ -39,15 +39,15 @@
 
 <div align="center">
 
-### 🧬 About Me
+### About Me
 
 </div>
 
-- 🧠 Fascinated by **AI + neuroscience & medical imaging**
-- 🔬 Building **automation workflows & ML pipelines**
-- 📡 Exploring **MLOps** — the backbone of production AI
-- 💡 Believes AI's next frontier is **helping humans heal**
-- 🤝 Open to collabs on **AI, ML & real-world problems**
+-  Fascinated by **AI + neuroscience & medical imaging**
+-  Building **automation workflows & ML pipelines**
+-  Exploring **MLOps** — the backbone of production AI
+-  Believes AI's next frontier is **helping humans heal**
+-  Open to collabs on **AI, ML & real-world problems**
 
 ---
 <img
@@ -109,8 +109,6 @@
 
 ![Git](https://img.shields.io/badge/Git-14213D?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-14213D?style=for-the-badge&logo=github&logoColor=64FFDA)
-![VS Code](https://img.shields.io/badge/VS%20Code-14213D?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-14213D?style=for-the-badge&logo=intellijidea&logoColor=FF318C)
 ![Linux](https://img.shields.io/badge/Linux-14213D?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
@@ -121,7 +119,7 @@
 <!--                  FEATURED PROJECTS                     -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## Projects
 
 <div align="center">
 
@@ -200,17 +198,17 @@
 
 ### 🟢 NeetCode — [thubalaminkomazana15](https://neetcode.io/profile/thubalaminkomazana15)
 
-[![Solved](https://img.shields.io/badge/Solved-72-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/profile/thubalaminkomazana15)
+[![Solved](https://img.shields.io/badge/Solved-152-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/profile/thubalaminkomazana15)
 &nbsp;
-[![Streak](https://img.shields.io/badge/🔥%20Current%20Streak-62%20Days-FF6B35?style=for-the-badge)](https://neetcode.io/profile/thubalaminkomazana15)
+[![Streak](https://img.shields.io/badge/🔥%20Current%20Streak-150%20Days-FF6B35?style=for-the-badge)](https://neetcode.io/profile/thubalaminkomazana15)
 &nbsp;
-[![2026](https://img.shields.io/badge/2026%20Submissions-155-64FFDA?style=for-the-badge)](https://neetcode.io/profile/thubalaminkomazana15)
+[![2026](https://img.shields.io/badge/2026%20Submissions-318-64FFDA?style=for-the-badge)](https://neetcode.io/profile/thubalaminkomazana15)
 
-[![Easy](https://img.shields.io/badge/Easy-26%20%2F%20935-4CAF50?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
+[![Easy](https://img.shields.io/badge/Easy-29%20%2F%20935-4CAF50?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
 &nbsp;
-[![Medium](https://img.shields.io/badge/Medium-37%20%2F%202033-FFA116?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
+[![Medium](https://img.shields.io/badge/Medium-102%20%2F%202033-FFA116?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
 &nbsp;
-[![Hard](https://img.shields.io/badge/Hard-9%20%2F%20919-F44336?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
+[![Hard](https://img.shields.io/badge/Hard-21%20%2F%20919-F44336?style=flat-square)](https://neetcode.io/profile/thubalaminkomazana15)
 
 </td>
 </tr>
@@ -293,7 +291,7 @@
 
 ```
  ◉ Complete 500+ LeetCode Java problems        [████████░░]  In Progress
- ◉ Publish 5 major AI Projects                 [████░░░░░░]  Building
+ ◉ Publish 5 major AI Projects                 [████████░░]  Building
  ◉ Contribute to medical AI research           [██░░░░░░░░]  Researching
  ◉ Become a cloud-ready AI engineer            [██████░░░░]  Advancing
 ```
